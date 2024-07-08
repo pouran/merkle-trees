@@ -16,3 +16,5 @@ Implementation of Merkle Trees for fun :)
 - add a value to the merkle tree [in progress]
 - update a value of the merkle tree [in progress]
 - print all levels of the merkle tree
+
+dummy test
